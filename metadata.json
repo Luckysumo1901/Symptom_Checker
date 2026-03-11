@@ -1,0 +1,5 @@
+{
+  "name": "Symptom Checker",
+  "description": "A medical-themed web application to predict possible diseases based on user symptoms.",
+  "requestFramePermissions": []
+}
